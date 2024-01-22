@@ -25,7 +25,7 @@ def chatbot():
   print('Welcome!')
   user_name = input('What is your name?: ')
   user_age = int(input(f'Nice to meet you, {user_name}! What is your age?: '))
-  print(f'{user_age}. Interesting! How may I help you?')
+  print('How may I help you?')
   print('Option 1')
   print('Option 2')
   print('Option 3')
